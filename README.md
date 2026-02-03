@@ -68,6 +68,13 @@ Smaller projects built with React, Next.js, Django, and REST APIs, focusing on r
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RitaAkankunda&layout=compact&theme=dark&hide_border=true)
 
+![Profile Views](https://komarev.com/ghpvc/?username=RitaAkankunda&color=blue&style=flat)
+
+![GitHub followers](https://img.shields.io/github/followers/RitaAkankunda?label=Followers&style=flat)
+
+![GitHub stars](https://img.shields.io/github/stars/RitaAkankunda?label=Stars&style=flat)
+
+
 ---
 
 ## 🤝 Open to Opportunities
