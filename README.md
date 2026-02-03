@@ -61,9 +61,14 @@ Smaller projects built with React, Next.js, Django, and REST APIs, focusing on r
 ---
 
 ## 📈 GitHub Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkankundaRita&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkankundaRita&theme=dark&hide_border=true)
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkankundaRita&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AkankundaRita&theme=dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkankundaRita&layout=compact&theme=dark&hide_border=true)
+
 
 ---
 
