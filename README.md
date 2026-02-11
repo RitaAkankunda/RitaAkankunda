@@ -50,9 +50,6 @@ I started my CS journey with **zero coding experience**, and through consistent 
 🔹 **Academic Issue Tracking System**  
 A web-based system for managing and tracking academic issues using structured workflows and role-based access.
 
-🔹 **Smart Campus Support System**  
-A ticketing and support platform designed to handle real campus-related requests and user interactions.
-
 🔹 **Web Development Mini Projects**  
 Smaller projects built with React, Next.js, Django, and REST APIs, focusing on real functionality and clean structure.
 
